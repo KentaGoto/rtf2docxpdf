@@ -8,6 +8,6 @@ If the RTF file exists in the specified directory, it will be converted to DOCX 
 $ rtf2docxpdf.py
 ```
 
-# Requires  
+## Requires  
 - Windows  
 - Python 3
