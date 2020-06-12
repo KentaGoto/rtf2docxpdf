@@ -10,3 +10,4 @@ $ rtf2docxpdf.py
 
 # Requires  
 - Windows  
+- Python 3.6 or above
