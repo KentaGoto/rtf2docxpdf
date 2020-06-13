@@ -10,4 +10,5 @@ $ rtf2docxpdf.py
 
 ## Requires  
 - Windows  
-- Python 3
+- Python 3  
+- Word 32bit
