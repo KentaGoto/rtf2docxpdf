@@ -6,6 +6,7 @@ If the RTF file exists in the specified directory, it will be converted to DOCX 
 ## Usage  
 ```
 $ rtf2docxpdf.py
+Dir: 
 ```
 
 ## Requires  
