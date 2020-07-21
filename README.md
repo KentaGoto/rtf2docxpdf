@@ -14,5 +14,5 @@ Dir: <DROP FOLDER>
 
 ## Requires  
 - Windows  
-- Python 3  
+- Python3  
 - Word 32bit
