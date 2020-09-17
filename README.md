@@ -13,3 +13,6 @@ Dir: <DROP FOLDER>
 - Windows  
 - Python3  
 - Word 32bit
+
+## License
+MIT
