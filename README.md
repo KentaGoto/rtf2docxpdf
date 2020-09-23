@@ -16,3 +16,6 @@ Dir: <DROP FOLDER>
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
